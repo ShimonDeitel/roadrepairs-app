@@ -1,0 +1,27 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "100000010",
+      "localizations": [
+        {
+          "description": "Unlimited repairs, receipt photos, and expense export",
+          "displayName": "Roadside Repairs Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "roadrepairs_pro",
+      "referenceName": "Roadside Repairs Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
