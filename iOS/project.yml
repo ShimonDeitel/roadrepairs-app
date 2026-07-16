@@ -32,7 +32,8 @@ targets:
     platform: iOS
     sources: [roadrepairsTests]
     dependencies:
-      - target: roadrepairs    settings:
+      - target: roadrepairs
+    settings:
       base:
         GENERATE_INFOPLIST_FILE: "YES"
 
@@ -41,7 +42,8 @@ targets:
     platform: iOS
     sources: [roadrepairsUITests]
     dependencies:
-      - target: roadrepairs    settings:
+      - target: roadrepairs
+    settings:
       base:
         GENERATE_INFOPLIST_FILE: "YES"
 
